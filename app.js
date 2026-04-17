@@ -80,7 +80,7 @@ function loadNavbar() {
 
   nav.innerHTML = `
         <nav>
-            <a href="index.html" class="logo">BlogZen</a>
+            <a href="index.html" class="logo">BlogsZen</a>
             <div class="nav-links">
                 <button id="theme-toggle" class="secondary" style="padding: 5px 10px;">${isDark ? "☀️ Light" : "🌙 Dark"}</button>
                 ${
